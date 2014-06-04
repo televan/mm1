@@ -1,0 +1,131 @@
+
+<html>
+<head>
+>
+<title>Мир автомобилей </title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+</head>
+<body background="http://oboiki.net/photo/28-0/749_tekstura-d.jpg">
+<p>
+ 
+<caption><font size="8" color="#00FFFF">Автосалоны BMW по городам</font></caption>
+ 
+
+
+<p>
+<Table border="5">
+   
+<COLGROUP span="1" bgcolor="red"></COLGROUP>
+  <COLGROUP span="1" bgcolor="orange"></COLGROUP>
+	<COLGROUP SPAN="2" 
+      <col span="1" bgcolor="yellow"></colgroup>
+    
+<tr>
+        <td>Днепропетровск</td>
+        <td>Киев</td>
+        <td>Львов</td>
+   <td>   Одесса  </td>
+ </tr>
+  
+  <tr>
+        <td>Харьков</td>
+        <td>Кременчуг</td>
+        <td>Донецк</td>
+  <td>   Симферополь  </td> </tr>
+    
+ <tr>
+ <td>   Запорожье </td> <td>   Луганск  </td>
+<td>   Николаев  </td>
+<td>   Ровно  </td></tr>
+
+<tr><td>   Севастополь  </td><td>   Херсон </td> <td>   Херсон </td><td>   Хмельницкий </td></tr>
+<table/>
+
+
+  
+
+<caption>Первые модели BMW</caption>
+ 
+  <table width="600">
+   <tfoot align="center" style="background: #BC8F8F">
+    <tr>
+     <td>BMW  116i</td>
+     <td>BMW  120i</td> 
+    </tr> 
+   </tfoot>
+
+   <tbody align="right" style="background: #00FFFF">
+    <tr>
+     <td>BMW  316g compact  (E36) </td>
+     <td>BMW  316i 1.6 compact  (E36) </td> 
+    </tr> 
+   </tbody>
+  </table>
+
+
+<caption>Последние BMW серии</caption>
+ 
+  <table style="width: 600px;">
+   <thead style="background: #fc0">
+    <tr>
+     <td> bmw x6 </td>
+     <td>bmw z3</td> 
+    </tr> 
+   </thead>
+   <tbody style="background: #ccc">
+    <tr>
+     <td> bmw z4 </td>
+     <td>bmw z8</td> 
+    </tr> 
+   </tbody>
+  </table>
+
+<hr>
+<p>    </p>
+<a name="http://b-m-w.ru">В данном месте создана закладка.</a>
+<a href="#http://b-m-w.ru">Перейти на закладку </a>
+<hr>
+<p>    </p>
+<hr>
+<p>    </p>
+<Font face="arial" color ="#EECFA1" size="7">Модельный ряд BMW</font>
+
+<ul Type = "square"> <li>bmw 1 серии</li><br><li>bmw 3 серии</li><br><li>bmw 5 серии</li></ul>
+<ul><ul Type = "disk"> <li>bmw x1</li><br><li>bmw x3</li><br><li>bmw x5</li>
+<hr>
+<hr>
+<p>    </p>
+<Font face="vernada"color ="#EECFA1" size="7">Модельный ряд BMW</font><br>
+<ol><ol Type="1"start="3"><li>bmw 6 серии</li><br><li>bmw 7 серии</li><br><li>bmw 8 серии</li>
+<br>
+<Font face="vernada"color ="green" size="4">Модельный ряд BMW</font><br>
+<ol Type="A" start = "A"><li>bmw m3</li><br><li>bmw m5</li><br><li>bmw m6</li><br></ol> <br>
+<hr>
+<p>    </p>
+<style type="text/css">
+   .r1, .r2, .r3 {
+    display: block; height: 1px; background: #7da7d9; overflow: hidden;
+   }
+   .r1 { margin: 0 4px; }
+   .r2 { margin: 0 2px; }
+   .r3 { margin: 0 1px; height: 2px; }
+   .block-round-content  {
+    background: #7da7d9; /* Цвет фона */
+    color: #fff;
+    padding: 10px; /*  Поля вокруг текста */
+   }
+  </style>
+ </head>
+ <body>
+  <div class="block-round">
+  <span class="r1"></span><span class="r2"></span><span class="r3"></span>
+  <div class="block-round-content">
+   При истечении возможности понимания вышеизложенной информации вы
+   имеете объективную возможность подать официальный запрос главному 
+   субординатору локальной виртуальной вселенной.
+  </div>
+  <span class="r3"></span><span class="r2"></span><span class="r1"></span>
+  </div>
+ </body>
+</html>
+
